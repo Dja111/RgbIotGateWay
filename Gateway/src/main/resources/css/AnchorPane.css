@@ -1,0 +1,38 @@
+#none{
+
+    fx-background-color:
+            #a6b5c9,
+            linear-gradient(#303842 0%, #3e5577 20%, #375074 100%),
+            linear-gradient(#768aa5 0%, #849cbb 5%, #5877a2 50%, #486a9a 51%, #4a6c9b 100%);
+    -fx-background-insets: 0 0 -1 0,0,1;
+    -fx-background-radius: 5,5,4;
+}
+
+#center-anchor-pane .decrement-arrow{
+    -fx-padding: 2.25;
+}
+#center-anchor-pane .increment-arrow{
+    -fx-padding: 2.25;
+}
+#center-anchor-pane .increment-button{
+    -fx-background-color:transparent;
+}
+#center-anchor-pane .decrement-button{
+    -fx-background-color:transparent;
+}
+#center-anchor-pane .track{
+    -fx-background-color: #123456;
+    -fx-font-size: 100px;
+}
+#center-anchor-pane .thumb{
+    -fx-background-color: #49c238;
+}
+#center-anchor-pane .scroll-bar{
+    -fx-font-size: 45px;
+}
+#left-anchor-pane{
+    -fx-background-color: #525252
+}
+#bottom-anchor-pane{
+    -fx-background-color: rgb(63, 246, 80);
+}
